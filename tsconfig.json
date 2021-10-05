@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES2015",
+        "sourceMap": true,
+        "outDir": "dist" // 컴파일 파일 저장 위치
+    },
+    "include": ["src/**/*"], // TS 파일 저장 위치
+    "exclude": ["node_modules"]
+
+}
