@@ -1,0 +1,19 @@
+{
+  "name": "nom-ts-basic",
+  "version": "1.0.0",
+  "description": "Nomadcoders Learning TyprScript by making a blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwangboksil/nom-ts-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwangboksil/nom-ts-basic/issues"
+  },
+  "homepage": "https://github.com/hwangboksil/nom-ts-basic#readme"
+}
