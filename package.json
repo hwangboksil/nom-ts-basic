@@ -18,7 +18,9 @@
     "url": "https://github.com/hwangboksil/nom-ts-basic/issues"
   },
   "homepage": "https://github.com/hwangboksil/nom-ts-basic#readme",
-  "dependencies": {},
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  },
   "devDependencies": {
     "@types/node": "^16.10.2",
     "ts-node": "^10.2.1",
